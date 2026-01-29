@@ -7,16 +7,21 @@ Find the ones that interest you and explore them further.
 
 - [Project Jupyter](https://jupyter.org/)
 - [The Jupyter Notebook (Official Documentation)](https://jupyter-notebook.readthedocs.io/en/stable/)
-- [Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) - A blog post with useful tips, tricks, and keyboard shortcuts to enhance your productivity in Jupyter Notebooks.
-- [Real Python Jupyter Notebook Tutorial](https://realpython.com/jupyter-notebook-introduction/) - A beginner-friendly tutorial that provides an introduction to Jupyter Notebooks, covering installation, notebook interface, running code, markdown cells, and data visualization.
-- [Jupyter Notebook Cheat Sheet](https://cheatography.com/sschaub/cheat-sheets/jupyter-notebook/) - A concise cheat sheet with commonly used commands and shortcuts for Jupyter Notebooks.
+- [Notebook Basics (Official)](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) - covers interface, keyboard shortcuts, and cell types
+- [Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) - useful tips and keyboard shortcuts to enhance productivity
+- [Real Python Jupyter Notebook Tutorial](https://realpython.com/jupyter-notebook-introduction/) - beginner-friendly introduction covering installation, interface, and data visualization
+- [VS Code Jupyter docs](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) - using VS Code with Jupyter Notebooks
 
 ## Jupyter Shortcut Keys
 
-- Shift + Enter: Run the current cell and move to the next one.
-- Ctrl + Enter: Run the current cell without moving.
-- A: Insert a new cell above.
-- B: Insert a new cell below.
+Press **Esc** to enter command mode (cell border turns blue), then:
+
+- **Shift + Enter**: Run the current cell and move to the next one.
+- **Ctrl + Enter**: Run the current cell without moving.
+- **A**: Insert a new cell above.
+- **B**: Insert a new cell below.
+- **M**: Change cell to Markdown.
+- **Y**: Change cell to Code.
 
 ## Numpy and pandas
 
