@@ -47,7 +47,7 @@ Follow the detailed instructions at:
 3. Clone to local: Open a **machine terminal** in your **`Repos`** folder and clone your new repo.
 
   ```shell
-  git clone https://github.com/YOURACCOUNT/datafun-04-notebooks
+  git clone https://github.com/mrjsanders/datafun-04-notebooks
   ```
 
 4. Open project in VS Code: Change directory into the repo and open the project in VS Code by running `code .` ("code dot"):
