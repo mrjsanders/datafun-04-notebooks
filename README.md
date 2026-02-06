@@ -1,10 +1,8 @@
 # datafun-04-notebooks
 
-<!-- TODO: update the GitHub account name to match YOUR GitHub account name -->
-
-[![Docs Deploy](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml)
-[![CI](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml)
-[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://denisecase.github.io/datafun-04-notebooks/)
+[![Docs Deploy](https://github.com/mrjsanders/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml/)](https://github.com/mrjsanders/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml)
+[![CI](https://github.com/mrjsanders/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml/)](https://github.com/mrjsanders/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://mrjsanders.github.io/datafun-04-notebooks/)
 [![Python](https://img.shields.io/badge/python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 > Professional Python project: exploratory data analysis with Jupyter notebooks.
