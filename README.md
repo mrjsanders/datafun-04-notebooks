@@ -158,13 +158,13 @@ Additional details and troubleshooting are available in the [Pro-Analytics-02 Do
 
 Open [mkdocs.yaml](./mkdocs.yaml).
 This file configures the associated project documentation website (powered by MkDocs)
-Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase`).
+Use CTRL+f to find each occurrence of the source GitHub account (e.g. `mrjsanders`).
 Change each occurrence to point to your GitHub account instead (spacing and capitalization MUST match the URL of your GitHub account **exactly**.)
 
 ### Project Task 2. Personalize This README.md file
 
 Edit this file in VS Code.
-Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase`).
+Use CTRL+f to find each occurrence of the source GitHub account (e.g. `mrjsanders`).
 Change each occurrence to point to your GitHub account instead (spacing and capitalization MUST match the URL of your GitHub account **exactly**.)
 
 ### Project Task 3. Run the Script Example
